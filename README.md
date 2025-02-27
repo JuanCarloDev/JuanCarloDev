@@ -1,5 +1,5 @@
 # Juan Gonçalves
- React.js Developer | Head of Technology | Gonew.co
+ Frontend Developer | Head of Technology
 <div> 
   <a href="https://www.linkedin.com/in/juan-gonçalves-89675b179/" target="_blank"><img src="https://img.shields.io/badge/-Juan Gonçalves-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 </div>
