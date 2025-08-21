@@ -123,14 +123,9 @@ Educational platform for executive management
 - 🌐 **Website:** [juancarlo.com.br](https://juancarlo.com.br)
 - 📸 **Instagram:** [@juancarlodev](https://instagram.com/juancarlodev)
 
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=JuanCarloDev&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</div>
 
 <div align="center">
 
-### 🚀 "Focused on building the future with technology and AI"
+###Inspire. Create. Repeat.
 
 </div>
