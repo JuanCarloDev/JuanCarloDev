@@ -2,7 +2,7 @@
 
 **Digital Strategist & AI Expert | Founder x3 | Software Developer & AI Engineer**
 
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/juancarlodev" target="_blank">
     <img src="https://img.shields.io/badge/-Juan%20Carlo%20Gonçalves-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
@@ -16,7 +16,7 @@
 
 <br />
 
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61dafb?style=for-the-badge&logo=react&logoColor=333333" />
@@ -25,7 +25,7 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </div>
 
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white" />
   <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white" />
@@ -92,75 +92,6 @@ const aiSkills = {
 
 ---
 
-## 🏢 Current Experience
-
-### **Hive Technology** | Founder & CTO
-
-_February 2024 – Present_
-
-- 👥 Leading team of **10+ professionals**
-- 🌍 International operations (**USA, Japan, Brazil**)
-- 🤖 Developing **AI products** for customer service automation
-- 📚 **Hyper-personalized LMS** with artificial intelligence
-- 📈 **40% improvement** in client efficiency
-
-### **SevenSales** | Co-Founder & Technical Lead
-
-_Active Project - AI as a Service_
-
-- 🤖 **Sales automation** platform using AI
-- 🎯 Targeting enterprise solutions
-- 💡 Advanced AI workflows and integrations
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JuanCarloDev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanCarloDev&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
----
-
-## 🛠️ Technologies & Tools
-
-<div align="center">
-
-### Languages
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-### Frontend
-
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-
-### Backend
-
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
-
-### AI/ML
-
-![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/-LangChain-121212?style=flat-square&logo=chainlink&logoColor=white)
-
-### Tools
-
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-
-</div>
-
----
-
 ## 🌟 Featured Projects
 
 ### 🤖 SevenSales - AI Sales Automation
@@ -186,33 +117,11 @@ Educational platform for executive management
 
 ---
 
-## 🎯 Philosophy & Values
-
-> **"Create your life as the main player"**
-
-- 🚀 **Intensity:** "Be intense! Enjoy the journey!"
-- 🎯 **Focus:** Total concentration on objectives
-- 💪 **Courage:** Betting on yourself even when it's difficult
-- ❤️ **Purpose:** Elevate and prosper +100 people
-
----
-
-## 📈 2024 Achievements
-
-- 🌍 **International Expansion** to USA and Japan
-- 👥 **10+ professionals** led across global teams
-- 🤖 **Multiple AI products** launched
-- 📈 **40% improvement** in client efficiency
-- 🦈 **Shark Tank Brasil 2025** participant
-
----
-
 ## 🌐 Let's Connect
 
 - 💼 **LinkedIn:** [linkedin.com/in/juancarlodev](https://linkedin.com/in/juancarlodev)
 - 🌐 **Website:** [juancarlo.com.br](https://juancarlo.com.br)
-- 📧 **Email:** juancarlo8800@gmail.com
-- 🏢 **Company:** [hivetechnology.io](https://hivetechnology.io)
+- 📸 **Instagram:** [@juancarlodev](https://instagram.com/juancarlodev)
 
 ---
 
