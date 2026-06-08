@@ -1,128 +1,88 @@
 # Juan Carlo Gonçalves
 
-**Digital Strategist & AI Expert | Founder x3 | Software Developer & AI Engineer**
+**AI Infrastructure for you and your business**
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/juancarlodev" target="_blank">
-    <img src="https://img.shields.io/badge/-Juan%20Carlo%20Gonçalves-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
   <a href="https://juancarlo.com.br" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfolio-%23000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+    <img src="https://img.shields.io/badge/Website-juancarlo.com.br-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Website">
+  </a>
+  <a href="https://www.linkedin.com/in/juancarlodev" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://instagram.com/juancarlodev" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
 </div>
 
 <br />
 
 <div align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61dafb?style=for-the-badge&logo=react&logoColor=333333" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61dafb?style=for-the-badge&logo=react&logoColor=333333" />
+  <img src="https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </div>
 
 <div align="left">
+  <img src="https://img.shields.io/badge/Anthropic_Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vector_DB-FF6B6B?style=for-the-badge&logo=database&logoColor=white" />
+  <img src="https://img.shields.io/badge/Multi--Agent-FF6B6B?style=for-the-badge&logo=robotframework&logoColor=white" />
 </div>
 
 ---
 
-> **"Create. Inspire. Repeat."**
+> **Create. Inspire. Repeat.**
 
-## 🚀 About Me
+## What we're building
 
-Juan is a developer with **9 years of experience** in technology, specialized in **fullstack development** with a focus on frontend. He co-founded and scaled successful companies, including an EdTech that reached over **$20M in revenue**.
+AI agents that run a business through conversation. One system, every surface.
 
-His journey took him from Brazil to **Silicon Valley**, where he participated in exclusive programs at **Google, Apple, LinkedIn, and Airbnb**. Today, as CTO and developer, he leads international teams creating AI solutions that transform businesses.
+**Hive OS** is one brain with four windows into it:
 
-**Partner at Dynamis Educação** and **Shark Tank Brasil 2025** participant, Juan is recognized for his AI expertise. He delivers corporate AI training and is developing new leaders to create multiple AI companies, expanding Brazil's tech innovation ecosystem.
+| Surface | What it is |
+|---|---|
+| 💬 **Steve OS** | a conversational agent on WhatsApp and Telegram that talks to customers, sells, and executes. Runs 24/7 on its own server per client, isolated, with its own identity |
+| 🧠 **Brain OS** | a markdown second brain: notes, AI digest, a knowledge base you can actually talk to |
+| 🏢 **Hub OS** | the operations cockpit: clients, proposals, the whole company in one place |
+| ⌨️ **Cockpit** | Claude Code running around the clock, executing the work |
 
-### 🎯 Career Highlights
+Same shape on every surface: a client plugs in their own data, pays monthly, and gets a second brain wired into their whole business. Multi-tenant from day one, one system serving many clients.
 
-- 🚀 **Founder x3** - Multiple successful ventures
-- 🌍 **International Experience** - USA and Japan (8 months on-site)
-- 🏢 **Ex-CTO Gonew.co** - Scaled from 0 to $20M+ revenue
-- 🛩️ **Private Pilot** - Licensed pilot certification
-- 🌎 **Silicon Valley** - Immersion at Apple, LinkedIn, Google, Airbnb (2019)
-- 🦈 **Shark Tank Brasil 2025** - Participant
+Today it ships for founders and teams across the **US and Brazil**, production AI in days instead of quarters.
 
----
+## The ground it stands on
 
-## 💻 Tech Stack
+Track record as foundation, not a trophy shelf:
 
-### Frontend Expert
+- Ex-CTO of an EdTech taken from zero to **$20M+** in revenue, 20k+ active users
+- **Shark Tank Brasil 2025**
+- Silicon Valley immersion across Apple, Google, LinkedIn, Airbnb (2019)
+- ~10 years shipping software, fullstack with an AI core
+- CTO at Arcanes
 
-```typescript
-const frontendSkills = {
-  frameworks: ["React.js", "Next.js"],
-  languages: ["TypeScript", "JavaScript"],
-  styling: ["Tailwind CSS", "CSS3", "HTML5"],
-  experience: "5+ years",
+## Stack we ship on
+
+```ts
+const stack = {
+  product:  ["Steve OS", "Hub OS", "Brain OS", "Cockpit"],
+  frontend: ["TypeScript", "React", "Next.js", "Tailwind"],
+  runtime:  ["Bun", "Node 20/22", "tmux"],
+  ai:       ["Anthropic Claude", "OpenAI", "Google Gemini", "Composio", "multi-agent L1/L2"],
+  infra:    ["VPS", "Caddy", "PM2", "multi-tenant", "self-distributing agents"],
 };
 ```
 
-### Backend & APIs
+## Let's connect
 
-```javascript
-const backendSkills = {
-  runtime: ["Node.js"],
-  frameworks: ["Express.js", "Fastify"],
-  apis: ["REST", "GraphQL"],
-  databases: ["PostgreSQL", "MongoDB", "Redis"],
-};
-```
-
-### AI & Machine Learning
-
-```python
-const aiSkills = {
-  platforms: ["OpenAI API", "Google Gemini"],
-  tools: ["LangChain", "Vector Databases"],
-  specialties: ["Embeddings", "Function Calling", "Agent Workflows"],
-  experience: "2+ years"
-}
-```
-
----
-
-## 🌟 Featured Projects
-
-### 🤖 SevenSales - AI Sales Automation
-
-Sales automation platform using AI for enterprises
-
-- **Tech Stack:** Next.js, TypeScript, OpenAI API, LangChain
-- **Focus:** Enterprise sales workflow automation
-
-### 🏢 Hive Technology - AI Solutions
-
-Development company focused on AI solutions
-
-- **Clients:** USA, Japan, Brazil
-- **Specialty:** Custom AI implementations
-
-### 📚 Gonew.co - EdTech Platform (Ex-CTO)
-
-Educational platform for executive management
-
-- **Growth:** 0 to $20M+ revenue
-- **Users:** 20,000+ active users
-
----
-
-## 🌐 Let's Connect
-
-- 💼 **LinkedIn:** [linkedin.com/in/juancarlodev](https://linkedin.com/in/juancarlodev)
-- 🌐 **Website:** [juancarlo.com.br](https://juancarlo.com.br)
-- 📸 **Instagram:** [@juancarlodev](https://instagram.com/juancarlodev)
-
+- 🌐 **Website** · [juancarlo.com.br](https://juancarlo.com.br)
+- 💼 **LinkedIn** · [/in/juancarlodev](https://www.linkedin.com/in/juancarlodev)
+- 📸 **Instagram** · [@juancarlodev](https://instagram.com/juancarlodev)
 
 <div align="center">
 
-###Inspire. Create. Repeat.
+**Inspire. Create. Repeat.**
 
 </div>
